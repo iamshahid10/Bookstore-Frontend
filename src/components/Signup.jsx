@@ -18,7 +18,7 @@ function Signup() {
       email: data.email,
       password: data.password
     };
-    await axios.post('http://localhost:4001/user/signup', userInfo)
+    await axios.post(`${import.meta.env.VITE_API_BASEURL}user/signup`, userInfo)
       .then((res) => {
         if (res.data) {
           toast.success("Signup Successfully");

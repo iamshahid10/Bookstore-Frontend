@@ -9,7 +9,7 @@ function Course() {
   useEffect(()=>{
     const getBook = async()=>{
      try {
-      const res = await axios.get("http://localhost:4001/book")
+      const res = await axios.get(`${import.meta.env.VITE_API_BASEURL}book`)
       setBook(res.data)
      } catch (error) {
       console.log(error);

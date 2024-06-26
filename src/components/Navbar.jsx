@@ -45,7 +45,7 @@ function Navbar() {
   );
   return (
     <>
-      <div className={`max-w-full container mx-auto dark:bg-slate-900 dark:text-white md:px-20 px-4 fixed top-0 left-0 right-0 z-50 ${sticky ? "sticky-navbar shadow-md bg-base-200 duration-300 dark:bg-slate-500 dark:text-white transition-all ease-in-out" : ""} `}>
+      <div className={`max-w-full container mx-auto dark:bg-slate-900 dark:text-white md:px-20 px-4 fixed top-0 left-0 right-0 z-50 ${sticky ? "sticky-navbar shadow-md bg-base-200 duration-300 dark:bg-slate-600 dark:text-white transition-all ease-in-out" : ""} `}>
         <div className="navbar">
           <div className="navbar-start">
             <div className="dropdown">

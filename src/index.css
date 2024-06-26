@@ -17,3 +17,30 @@ body { font: 16px sans-serif; margin: 0 }
   object-fit: cover;
   width: 100%;
 } 
+
+/* App.css */
+.slick-prev, .slick-next {
+  color: red; /* Change to your desired color */
+}
+
+.slick-prev:hover, .slick-next:hover {
+  color: green; /* Change to your desired hover color */
+}
+
+/* If you want to target the button background specifically */
+.slick-prev:before, .slick-next:before {
+  color: red; /* Change to your desired color */
+}
+
+/* App.css */
+
+/* Change the color of the dots */
+.slick-dots li button:before {
+  color: blue; /* Change to your desired color */
+  font-size: 12px; /* Adjust the size if needed */
+}
+
+/* Change the color of the active dot */
+.slick-dots li.slick-active button:before {
+  color: red; /* Change to your desired active color */
+}

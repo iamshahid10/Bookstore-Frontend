@@ -1,0 +1,133 @@
+ [
+    {
+        "name": "A Brief History of the Internet",
+        "title": "The Bright Side: The Dark Side",
+        "auther": "by Michael s. Hart",
+        "category": "free",
+        "image": "https://manybooks.net/sites/default/files/styles/220x330sc/public/old-covers/cover-cust-3300.jpg?itok=VSm8696G",
+        "link":"https://drive.google.com/file/d/1LpCAyphyPQoJWq7i4bcj_cmvaU2P7qWH/view?usp=drivesdk"     
+    },
+    {
+        "name": "An Account of Egypt",
+        "title": "The book is a detailed account of Herodotus's travels to Egypt",
+        "auther": "by Herodotus",
+        "category": "free",
+        "image": "https://cdn.kobo.com/book-images/6e6fb81a-e502-44b8-b209-6e5b30b9e48c/353/569/90/False/an-account-of-egypt-27.jpg",
+        "link":"https://drive.google.com/file/d/1LwyNnB5BSagXozsr05kbb44oferzsF7x/view?usp=drivesdk" 
+    },
+    {
+        "name": "Cleopatra",
+        "title": "Being an Account of the Fall and Vengeance of Harmachis",
+        "auther": "by H. Rider Haggard",
+        "category": "free",
+        "image": "https://cdn.kobo.com/book-images/7eaa4c64-2516-41ee-8400-98be6739a5ee/1200/1200/False/cleopatra-190.jpg",
+        "link":"https://drive.google.com/file/d/1LzAShkW4-XrAApNyvxx_8IFRS-RIljnR/view?usp=drivesdk"      
+    },
+    {
+        "name": "Mastermind",
+        "title": "An ambitious plan to switch two planes in mid-air began as an online game...but now it is more...much more.",
+        "auther": "by Helen Goltz",
+        "category": "free",
+        "image": "https://mysmsbooks.wordpress.com/wp-content/uploads/2015/01/mastermind.jpg",
+        "link":"https://drive.google.com/file/d/1LaNQLzedxPdy7XxXbxBk1HU8v3758guH/view?usp=drivesdk"      
+    },{
+        "name": "Alleem SusTainable Development Goals",
+        "title": "This is the book about sustainability and the importance of including inclusive growth in any sustainability module",
+        "auther": "by Dr. Rashid Alleem",
+        "category": "free",
+        "image": "https://up.bookfusion.com/book/cover/001/156/246/large_f5e5752c6c981f55.jpg",
+        "link":"https://drive.google.com/file/d/1LXsfja2pz2eAUhpF3tpRKqM2nrzCjnXa/view?usp=drivesdk"
+    },{
+        "name": "Dawn of Rebellion",
+        "title": "My name is Dawn Nolan, and I grew up on the military-controlled streets of London.",
+        "auther": "by Michelle Lynn",
+        "category": "free",
+        "image": "https://m.media-amazon.com/images/I/71lS2dE7IwS._SY522_.jpg",
+        "link":"https://drive.google.com/file/d/1LBt_0xCpTSH6aiJf7B-i_WRPUjvXNJLL/view?usp=drivesdk"      
+    },{
+        "name": "The Art of War",
+        "title": "The Art of War, the classic Chinese military treatise considered by many as the ultimate strategy guide",
+        "auther": "by Zi Sun",
+        "category": "free",
+        "image": "https://cdn.kobo.com/book-images/fabf787b-ac84-48ef-bfaa-7a33f6b71656/353/569/90/False/the-art-of-war-186.jpg",
+        "link":"https://drive.google.com/file/d/1LBxBMUUwLbx75_bRF1Eaf84oQWfjATug/view?usp=drivesdk"      
+    },{
+        "name": "The First Man In The Moon",
+        "title": "The novel tells the story of a journey to the moon undertaken by the two protagonists",
+        "auther": "by H. G. Wells",
+        "category": "free",
+        "image": "https://cdn.kobo.com/book-images/ab943ba7-e01e-4a08-afdd-febd5be84f46/353/569/90/False/the-first-man-in-the-moon-3.jpg",
+        "link":"https://drive.google.com/file/d/1M6kC3hYFjSWSeu3_QT2HF0FZ6Q5Au9ZB/view?usp=drivesdk"      
+    },{
+        "name": "The Psychology of Motivation",
+        "title": "Path to Becoming Motivated Every Day for a Successful Life",
+        "auther": "by Richard Brown",
+        "category": "free",
+        "image": "https://m.media-amazon.com/images/I/41JeXPh0vcL.jpg",
+        "link":"https://drive.google.com/file/d/1LemdYq2VT27SH25Wyf8RI7O6SoE8bzzW/view?usp=drivesdk"      
+    },{
+        "name": "The Woman in White",
+        "title": "The Woman in White is a dramatic tale, inspired by an actual criminal case",
+        "auther": "by  Wilkie Collins",
+        "category": "free",
+        "image": "https://cdn.kobo.com/book-images/3f9168b9-e59a-4b63-9dbe-8be16c1a6e93/353/569/90/False/the-woman-in-white-177.jpg",
+        "link":"https://drive.google.com/file/d/1LoU4y6ghq2-Yk3LpewfPbdBiTyO6CgV7/view?usp=drivesdk"      
+    },{
+        "name": "Harry Potter and the Sorcerers Stone",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/819GoteowlL._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1L5xGQcFTxTg5hz3cW-ZY4FmklZKsLIoi/view?usp=drivesdk"      
+    },{
+        "name": "Harry Potter and the Chamber of Secrets",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/81Wbfijio4L._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1KowrZC55den_RH-48HDdLIMtkSAXPObd/view?usp=drivesdk"     
+    },{
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/81y-3oSkxGL._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1L4foFNkmR5FIve3g31kwlnoSEpYrk_bk/view?usp=drivesdk"     
+    },{
+        "name": "Harry Potter and the Goblet of Fire",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/81YoazRCtBL._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1KwOjv5lnzFHfDx1LnYvwVUzfOwE46GUV/view?usp=drivesdk"     
+    },{
+        "name": "Harry Potter and the Order of the Phoenix",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/816DPd8HNBL._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1Kz_e5MryloRcWhxKj04GmvsoNNiF66wy/view?usp=drivesdk"     
+    },{
+        "name": "Harry Potter and the Half-Blood Prince",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/813zbNPhO5L._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1Kz2TRT2AQUlcSKbX_boo9fMS_bx8iGFJ/view?usp=drivesdk"     
+    },{
+        "name": "Harry Potter and the Deathly Hallows",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/81qmfY6mMrL._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1KqFgVd3ZPIYefpGUbwdT5viGyTkZoHyF/view?usp=drivesdk"     
+    },{
+        "name": "Harry Potter and the Cursed Child",
+        "title": "The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley",
+        "auther": "by J.K. Rowling",
+        "category": "Special",
+        "image": "https://m.media-amazon.com/images/I/91bUfxdDjWL._SY466_.jpg",
+        "link":"https://drive.google.com/file/d/1KlgR1X90eYRJZJxaCzt1RB2FmCMoZ1ZP/view?usp=drivesdk"     
+    }
+    
+]
